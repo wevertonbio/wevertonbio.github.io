@@ -7,25 +7,25 @@
     "url": "https://github.com/wevertonbio/wevertonbio.github.io.git",
     "summary": "Brazilian ecologist. I've dedicated my research to studying macroecological patterns, using ecological niche models to predict the distribution of thousands of species.",
     "location": {
-      "address": "Centro Politécnico, Av. Cel. Francisco H. dos Santos, 100",
+      "address": "Centro Politecnico, Av. Cel. Francisco H. dos Santos, 100",
       "postalCode": "81531-980",
       "city": "Curitiba",
       "countryCode": "BR",
-      "region": "Paraná State"
+      "region": "Parana State"
     }
   },
   "work": [
     {
-      "name": "Governo Estadual do Estado do Paraná",
+      "name": "Governo Estadual do Estado do Parana",
       "position": "Teacher of Science and Biology",
       "startDate": "2015-02-01",
       "endDate": "2016-12-31",
-      "summary": "Teaching Science and Biology at public schools in the state of Paraná."
+      "summary": "Teaching Science and Biology at public schools in the state of Parana"
     }
   ],
   "education": [
     {
-      "institution": "Federal University of Paraná",
+      "institution": "Federal University of Parana",
       "location": "Curitiba, Brazil",
       "url": "https://www.prppg.ufpr.br/site/ppgecologia/en/",
       "area": "Ecology and Conservation",
@@ -45,7 +45,7 @@
       "startDate": "2017-02-01",
       "endDate": "2019-02-01",
       "courses": [
-        "Modeling the Distribution of Vegetation Types in the State of Paraná: Past, Present, and Future"
+        "Modeling the Distribution of Vegetation Types in the State of Parana: Past, Present, and Future"
       ]
     },
     {
@@ -95,14 +95,14 @@
     },
     {
       "name": "GenExcel de Populacoes: Genetica de Populacoes no Excel",
-      "publisher": "Genética na Escola",
+      "publisher": "Genetica na Escola",
       "releaseDate": "2019-09-01",
       "url": "https://geneticanaescola.emnuvens.com.br/revista/article/view/320",
       "summary": "This paper introduces didactic software that can be used to simulate the effects of evolutionary factors on the gene pool of a population."
     },
     {
-      "name": "Percepção da teoria da evolucao por alunos de Biologia de uma universidade portuguesa e de uma universidade brasileira: uma analise comparativa",
-      "publisher": "Genética na Escola",
+      "name": "Percepcao da teoria da evolucao por alunos de Biologia de uma universidade portuguesa e de uma universidade brasileira: uma analise comparativa",
+      "publisher": "Genetica na Escola",
       "releaseDate": "2018-08-01",
       "url": "https://geneticanaescola.emnuvens.com.br/revista/article/view/305",
       "summary": "We examined whether variations in teaching structures and guiding pedagogical documents between Brazil and Portugal influence students' understanding of evolutionary theory."
@@ -157,11 +157,8 @@
   "projects": [
     {
       "name": "NAPI Biodiversidade",
-      "summary": "Aim: To estimate the distribution of plant and animal species in the State of Paraná (Brazil) to identify priority areas for conservation and biodiversity restoration",
-      "highlights": [
-        "Distributional Ecology",
-        "Conservation"
-      ],
+      "summary": "Aim: To estimate the distribution of plant and animal species in the State of Parana (Brazil) to identify priority areas for conservation and biodiversity restoration",
+      "highlights": ["Distributional Ecology", "Conservation"],
       "startDate": "2024-04-01",
       "url": "https://napibiodiversidade.eco.br/"
     }
