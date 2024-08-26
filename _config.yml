@@ -2,6 +2,8 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
+# https://github.com/alshedivat/al-folio
+
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Weverton
 middle_name: C. F.
