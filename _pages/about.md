@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Federal University of Parana</a>.
+subtitle: <a href='#'>Federal University of Parana</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>We are a way for the Cosmos to know itself (Carl Sagan)</p>
+    <p>"We are a way for the Cosmos to know itself" (Carl Sagan)</p>
 
 news: FALSE # includes a list of news items
 selected_papers: FALSE # includes a list of papers marked as "selected={true}"
