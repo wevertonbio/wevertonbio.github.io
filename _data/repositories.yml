@@ -1,14 +1,13 @@
-github_users:
-  - torvalds
-  - alshedivat
-
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - wevertonbio/florabr
+  - wevertonbio/faunabr
+  - wevertonbio/kuenm2
+  - wevertonbio/ENM_Rscripts
+  - claununez/biosurvey
+  - wevertonbio/Richness_patterns
+  - wevertonbio/Endemism_Atlantic_Forest
+  - wevertonbio/Get_and_Filter_Points
+  - wevertonbio/grinnell
+  - wevertonbio/Curso_Introducao_ao_R
