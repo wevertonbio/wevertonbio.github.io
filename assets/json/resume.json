@@ -14,15 +14,6 @@
       "region": "Parana State"
     }
   },
-  "work": [
-    {
-      "name": "Governo Estadual do Estado do Parana",
-      "position": "Teacher of Science and Biology",
-      "startDate": "2015-02-01",
-      "endDate": "2016-12-31",
-      "summary": "Teaching Science and Biology at public schools in the state of Parana"
-    }
-  ],
   "education": [
     {
       "institution": "Federal University of Parana",
@@ -69,6 +60,15 @@
       "courses": [
         "Perception of Evolutionary Theory by Biology Students from a Portuguese University and a Brazilian University"
       ]
+    }
+  ],
+  "work": [
+    {
+      "name": "Governo Estadual do Estado do Parana",
+      "position": "Teacher of Science and Biology",
+      "startDate": "2015-02-01",
+      "endDate": "2016-12-31",
+      "summary": "Teaching Science and Biology at public schools in the state of Parana"
     }
   ],
   "publications": [
