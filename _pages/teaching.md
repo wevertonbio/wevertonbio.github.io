@@ -1,13 +1,15 @@
 ---
 layout: page
 permalink: /teaching/
-title: Mentoring
-description: A list of research projects by undergraduates under my mentorship.
+title: Mentoring & Committees
+description: An overview of research projects mentored by me or those in which I contributed as a committee member.
 nav: true
 nav_order: 6
 ---
 
 ---
+
+# Mentoring
 
 ## Analysis of the State of Parana using the Sustainability Barometer method
 
@@ -86,3 +88,49 @@ nav_order: 6
 **Institution**: Federal Institude of Parana.
 
 **Type of mentoring**: Co-orientation.
+
+---
+
+# Committees
+
+## The impact of climate change on the occurrence and distribution of beetles of the genus Omophoita Chevrolat, 1836 (Chrysomelidae) in Brazil
+
+**Student**: Marcos Cesar Pochynski Galvao Junior
+
+**Project Title (Original)**: O impacto das mudanças climaticas na ocorrencia e distribuicao de besouros do genero _Omophoita Chevrolat_, 1836 (Chrysomelidae) no Brasil
+
+**Year**: 2023
+
+**Type of project**: Undergraduate Thesis (Biological Sciences).
+
+**Institution**: State University of Ponta Grossa.
+
+---
+
+## Ecological Niche Modeling and actions for the prevention of American Cutaneous Leishmaniasis in the state of Parana
+
+**Student**: Erica da Silva Araujo
+
+**Project Title (Original)**: Modelagem de Nicho Ecologico e acoes para a prevencao de Leishmaniose Tegumentar Americana no estado do Parana
+
+**Year**: 2021
+
+**Type of project**: Undergraduate Thesis (Biological Sciences).
+
+**Institution**: State University of Ponta Grossa.
+
+---
+
+## Human and non-human animal relationships in the context of Science textbooks
+
+**Student**: Ana Claudia Azevedo Camargo
+
+**Project Title (Original)**: Relacoes animais humanos e nao humanos no contexto dos livros didaticos de Ciencias
+
+**Year**: 2018
+
+**Type of project**: Undergraduate Thesis (Biological Sciences).
+
+**Institution**: State University of Ponta Grossa.
+
+---
