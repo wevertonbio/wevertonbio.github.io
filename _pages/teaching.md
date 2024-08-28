@@ -77,7 +77,7 @@ nav_order: 6
 
 # WEBQUEST and Biology Teaching: A Study on the Use of Educational Technologies in Classes on Angiosperms
 
-**Student**: Jacqueline Gonçalves dos Santos.
+**Student**: Jacqueline Goncalves dos Santos.
 
 **Project Title (Original)**: WEBQUEST e o Ensino de Biologia: um estudo sobre a utilizacao das Tecnologias Educacionais nas aulas sobre Angiospermas.
 
