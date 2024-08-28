@@ -73,8 +73,6 @@ nav_order: 6
 
 **Type of mentoring**: Orientation.
 
-[Link to the final thesis]
-
 ------------------------------------------------------------------------
 
 # WEBQUEST and Biology Teaching: A Study on the Use of Educational Technologies in Classes on Angiosperms
@@ -87,7 +85,7 @@ nav_order: 6
 
 **Type of project**: Undergraduate Thesis (Natural Sciences and Mathematics).
 
-**Institution**: Federal Institude of Parana
+**Institution**: Federal Institude of Parana.
 
 **Type of mentoring**: Co-orientation.
 
