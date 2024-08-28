@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Mentoring & Committees
+title: Mentoring/Committees
 description: An overview of research projects mentored by me or those in which I contributed as a committee member.
 nav: true
 nav_order: 6
@@ -97,7 +97,7 @@ nav_order: 6
 
 **Student**: Marcos Cesar Pochynski Galvao Junior
 
-**Project Title (Original)**: O impacto das mudanças climaticas na ocorrencia e distribuicao de besouros do genero _Omophoita Chevrolat_, 1836 (Chrysomelidae) no Brasil
+**Project Title (Original)**: O impacto das mudancas climaticas na ocorrencia e distribuicao de besouros do genero _Omophoita Chevrolat_, 1836 (Chrysomelidae) no Brasil
 
 **Year**: 2023
 
