@@ -21,8 +21,6 @@ nav_order: 6
 
 **Type of mentoring**: Co-orientation.
 
-[Link to the final thesis](https://acervodigital.ufpr.br/xmlui/handle/1884/75022)
-
 ------------------------------------------------------------------------
 
 # Where Does the Dragonfly Live? Distribution Model of *Ischnura capreolus (Hagen, 1861)* in the American Continent.
@@ -55,8 +53,6 @@ nav_order: 6
 
 **Type of mentoring**: Co-orientation.
 
-[Link to the final thesis](https://bib.pucminas.br/acervo/536356)
-
 ------------------------------------------------------------------------
 
 # Teaching Evolution in Confessional Schools: Discourses and Possibilities
@@ -88,5 +84,3 @@ nav_order: 6
 **Institution**: Federal Institude of Parana.
 
 **Type of mentoring**: Co-orientation.
-
-[Link to the final thesis](https://ifpr.edu.br/irati/wp-content/uploads/sites/14/2020/08/TCC_especializacao_2018.pdf)
