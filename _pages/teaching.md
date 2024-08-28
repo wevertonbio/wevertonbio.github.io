@@ -7,7 +7,7 @@ nav: true
 nav_order: 6
 ---
 
-# Analysis of the State of Paraná using the Sustainability Barometer method.
+# Analysis of the State of Parana using the Sustainability Barometer method.
 
 **Student**: Felipe Aguiar Martin.
 
