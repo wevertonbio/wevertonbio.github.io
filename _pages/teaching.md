@@ -7,7 +7,9 @@ nav: true
 nav_order: 6
 ---
 
-# Analysis of the State of Parana using the Sustainability Barometer method.
+------------------------------------------------------------------------
+
+## Analysis of the State of Parana using the Sustainability Barometer method
 
 **Student**: Felipe Aguiar Martin.
 
@@ -23,7 +25,7 @@ nav_order: 6
 
 ------------------------------------------------------------------------
 
-# Where Does the Dragonfly Live? Distribution Model of *Ischnura capreolus (Hagen, 1861)* in the American Continent.
+## Where Does the Dragonfly Live? Distribution Model of *Ischnura capreolus (Hagen, 1861)* in the American Continent
 
 **Student**: Caroline Beatriz Silva Costa.
 
@@ -39,7 +41,7 @@ nav_order: 6
 
 ------------------------------------------------------------------------
 
-# Ecological Niche Modeling of *Cloeon smaeleni* Lestage, 1924, an Invasive Mayfly Species.
+## Ecological Niche Modeling of *Cloeon smaeleni* Lestage, 1924, an Invasive Mayfly Species
 
 **Student**: Helena Maura de Andrade Soares.
 
@@ -55,7 +57,7 @@ nav_order: 6
 
 ------------------------------------------------------------------------
 
-# Teaching Evolution in Confessional Schools: Discourses and Possibilities
+## Teaching Evolution in Confessional Schools: Discourses and Possibilities
 
 **Student**: Caroline Monteiro Daffara
 
@@ -71,7 +73,7 @@ nav_order: 6
 
 ------------------------------------------------------------------------
 
-# WEBQUEST and Biology Teaching: A Study on the Use of Educational Technologies in Classes on Angiosperms
+## WEBQUEST and Biology Teaching: A Study on the Use of Educational Technologies in Classes on Angiosperms
 
 **Student**: Jacqueline Goncalves dos Santos.
 
